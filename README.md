@@ -1,6 +1,13 @@
 # udemy_Modern_JS
 Modern JavaScript From The Beginning by Brad Traversy. Completed on July 18, 2020
 
+Tools Used:
+- VS Code
+  - **extensions:**
+    - live server
+    - JavaScript (ES6) code snippets
+    - Bracket Pair Colorizer
+- Chromium browser
 
 Course Description:
 
