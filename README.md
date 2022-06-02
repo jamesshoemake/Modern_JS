@@ -1,4 +1,7 @@
 # udemy_Modern_JS
+This code contains a Udemy course.
+I use that the fundamentals sandbox code often in projects, and its nice to have a few built applications such as the tasklist and github projects as guides.
+
 Modern JavaScript From The Beginning by Brad Traversy. Completed on July 18, 2020
 
 Tools Used:
